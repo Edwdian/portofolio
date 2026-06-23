@@ -1,6 +1,6 @@
 import React from 'react';
 import profileImg from '../img/profile.jpeg';
-import cvFile from '../files/cv.pdf';
+import cvFile from '../files/cv_edwin.pdf';
 
 export default function Hero() {
   const go = (id) => document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
