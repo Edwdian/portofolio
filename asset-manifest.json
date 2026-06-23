@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.adc5f53c.css",
-    "main.js": "/portfolio/static/js/main.2b607b5e.js",
-    "static/media/skripsi.png": "/portfolio/static/media/skripsi.4ad59175389005a3796f.png",
-    "static/media/abee.png": "/portfolio/static/media/abee.8abd9838055828cb0fef.png",
-    "static/media/edwin.jpg": "/portfolio/static/media/edwin.718e6f89d058dbfadab2.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.4f90d2ed06f387019984.pdf",
-    "static/media/profile.jpeg": "/portfolio/static/media/profile.53de1fd3d706fac62581.jpeg",
-    "index.html": "/portfolio/index.html",
-    "main.adc5f53c.css.map": "/portfolio/static/css/main.adc5f53c.css.map",
-    "main.2b607b5e.js.map": "/portfolio/static/js/main.2b607b5e.js.map"
+    "main.css": "/portofolio/static/css/main.adc5f53c.css",
+    "main.js": "/portofolio/static/js/main.3a4e5712.js",
+    "static/media/skripsi.png": "/portofolio/static/media/skripsi.4ad59175389005a3796f.png",
+    "static/media/abee.png": "/portofolio/static/media/abee.8abd9838055828cb0fef.png",
+    "static/media/edwin.jpg": "/portofolio/static/media/edwin.718e6f89d058dbfadab2.jpg",
+    "static/media/cv.pdf": "/portofolio/static/media/cv.4f90d2ed06f387019984.pdf",
+    "static/media/profile.jpeg": "/portofolio/static/media/profile.53de1fd3d706fac62581.jpeg",
+    "index.html": "/portofolio/index.html",
+    "main.adc5f53c.css.map": "/portofolio/static/css/main.adc5f53c.css.map",
+    "main.3a4e5712.js.map": "/portofolio/static/js/main.3a4e5712.js.map"
   },
   "entrypoints": [
     "static/css/main.adc5f53c.css",
-    "static/js/main.2b607b5e.js"
+    "static/js/main.3a4e5712.js"
   ]
 }
